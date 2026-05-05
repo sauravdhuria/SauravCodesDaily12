@@ -32,6 +32,7 @@ class PhoneBook:
         else :
             for contact in cls.phone_contact:
                 print(f"Contact name {contact.name} Phone Number {contact.phone_Number}")
+                                                #each contact is a object using dot operator to use objects
 
 s1=PhoneBook("Saurav",7208467235)
 s2=PhoneBook("babbu",8108467235)
