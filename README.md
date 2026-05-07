@@ -1,7 +1,5 @@
-This repository contains my Python mini projects developed as part of my learning journey. 
-Each project focuses on applying core programming concepts such as logic building, data structures,
-file handling, and object-oriented programming in real-world scenarios.
+This repository is dedicated to my daily Python coding practice and learning journey. It includes a wide range of programs covering fundamental to advanced concepts such as data types, control structures, functions, data structures, file handling, and object-oriented programming. Along with concept-based code, I regularly solve problems and build small projects to strengthen my logic and practical understanding.
 
-These mini projects help me strengthen my problem-solving skills, 
-improve code structure, and gain practical experience in building functional applications. '
-The repository is regularly updated with new projects as I continue to explore and learn Python.
+The main goal of this repository is to maintain consistency, improve problem-solving skills, and develop clean and efficient coding habits. It also serves as a personal reference to track my progress over time and revisit important concepts whenever needed.
+
+I will continue updating this repository with new programs, challenges, and projects as I progress in my Python learning journey.
