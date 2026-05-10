@@ -6,7 +6,6 @@ class Shape(ABC):
 class Square(Shape):
     def __init__(self, side):
         self.side = side
-
     def area(self):
         print(self.side **2)
 
