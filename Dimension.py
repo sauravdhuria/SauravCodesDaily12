@@ -48,6 +48,19 @@ import numpy as np
 # print(np.argmax(total))
 
 
+# t=np.array([[[1,2,3],
+#               [4,5,6]],
+#              [[7,8,9],
+#              [10,11,12],]])
+# print(t)
+#
+# print(t.shape)
+# print(t[:,1,1])
 
-
-
+np.random.seed(0)
+img = np.random.randint(0, 256, size=(2, 3, 3), dtype=np.uint8)
+print('Image shape:', img.shape)
+print('Red channel:\n', img[:, :, 0])
+img_no_blue = img.copy()
+img_no_blue[:, :, 2] = 0
+print('Blue channel after zeroing:\n', img_no_blue[:, :, 2])
