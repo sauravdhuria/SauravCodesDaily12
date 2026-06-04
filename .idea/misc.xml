@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.14 (Pokemon_csv)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (Pokemon_csv)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.14 (SauravCodesDaily12)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (SauravCodesDaily12)" project-jdk-type="Python SDK" />
+>>>>>>> 0ab8554328563c470da140da99157a7665f7ece6
 </project>
